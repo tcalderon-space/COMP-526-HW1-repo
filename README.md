@@ -1,6 +1,8 @@
 # COMP-526-HW1-repo
 
+
 ## Topics about Space :telescope:
+
      - Meteorites :black_circle:
      - Stars :yellow_circle:
      - Planets :brown_circle:
