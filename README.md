@@ -7,7 +7,7 @@
 
 
 ## [Meteorites](README.md)
-    ![Image of Meteorite from NASA](meteorite.jpg)
+    ![Image of Meteorite from NASA](COMP-526-HW1-repo/meteorite.jpg)
 
 ## [Stars](README.md)
     ![Image of Star from NASA](stars.jpg)
