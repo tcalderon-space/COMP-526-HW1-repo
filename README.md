@@ -11,4 +11,4 @@
 ## [Stars](README.md)
 
 ## [Planets](README.md)
-    ![Image of Planets from NASA](https://media.gettyimages.com/id/460716315/vector/venus-artwork.jpg?s=612x612&w=gi&k=20&c=PvQ8JyBLPpLUlynHwchtVpgZPuxPx5r9ZFMZEOtrOYo=)
+    ![Image of Planets from NASA](https://science.nasa.gov/wp-content/uploads/2024/03/pia15162-mercury-basins-messenger-16x9-1.jpg)
