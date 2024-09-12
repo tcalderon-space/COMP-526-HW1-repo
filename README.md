@@ -7,10 +7,8 @@
 
 
 ## [Meteorites](README.md)
-    ![Image of Meteorite from NASA](https://www.gannett-cdn.com/presto/2018/10/04/PDTF/62fa8cef-7643-423f-a5e3-d6b96c1e39e0-2018-309-02_Meteorite_mb.jpg)
 
 ## [Stars](README.md)
-    ![Image of Star from NASA](stars.jpg)
 
 ## [Planets](README.md)
-    ![Image of Planets from NASA](planets.jpg)
+    ![Image of Planets from NASA]([planets.jpg](https://media.gettyimages.com/id/460716315/vector/venus-artwork.jpg?s=612x612&w=gi&k=20&c=PvQ8JyBLPpLUlynHwchtVpgZPuxPx5r9ZFMZEOtrOYo=))
